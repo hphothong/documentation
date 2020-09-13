@@ -2,4 +2,4 @@
 title: Imageography
 ---
 
-# Privacy Policy
+## Privacy Policy
