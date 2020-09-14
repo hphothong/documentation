@@ -1,5 +1,5 @@
 ---
-title: Welcome to Alloetech LLC's documentation
+title: Alloetech LLC's Documentation
 ---
 
 ## Applications
