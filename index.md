@@ -2,7 +2,7 @@
 title: Documentation
 ---
 
-## Welcome to Alloetech LLC's documentation site
+## Welcome to Alloetech LLC's documentation site!
 
 ### Applications
 

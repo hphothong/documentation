@@ -1,12 +1,14 @@
 ---
-title: Imageography
+title: Imageography Support Site
 layout: default
 ---
 
-## Welcome to the Imageography support site
+## Documents
 
-[Privacy Policy](https://hphothong.github.io/documentation/imageography/privacy)
+### [Privacy Policy](https://hphothong.github.io/documentation/imageography/privacy)
+
+### [End-User License Agreement](https://hphothong.github.io/documentation/imageography/eula)
 
 ## Contact Us
 
-Support Email: [hphothong@gmail.com](mailto:hphothong@gmail.com)
+### Support Email: [hphothong@gmail.com](mailto:hphothong@gmail.com)
