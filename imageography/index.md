@@ -9,4 +9,4 @@ layout: default
 
 ## Contact Us
 
-You can reach us at our [Support Email](mailto:hphothong@gmail.com)!
+Support Email: [hphothong@gmail.com](mailto:hphothong@gmail.com)
