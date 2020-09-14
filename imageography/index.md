@@ -1,6 +1,5 @@
 ---
 title: Imageography Support Site
-layout: default
 ---
 
 ## Documents
