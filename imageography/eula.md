@@ -16,13 +16,13 @@ This License Agreement may not provide for usage rules for the Application that 
 
 All rights not expressly granted to You are reserved.
 
-1. THE APPLICATION
+### 1. THE APPLICATION
 
 Imageography (hereinafter: Application) is a piece of software created to share scenic locations for photographers and models - and customized for Apple and Android mobile devices. It is used to store and view scenic locations.
 
 The Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Application. You may not use the Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-2. SCOPE OF LICENSE
+### 2. SCOPE OF LICENSE
 
 2.1 You are given a non-transferable, non-exclusive, non-sublicensable license to install and use the Licensed Application on any Apple-branded Products or Android-running Products that You (End-User) own or control and as permitted by the Usage Rules set forth in this section, the Apple App Store Terms of Service, and the Google Play Store Terms of Service, with the exception that such licensed Application may be accessed and used by other accounts associated with You (End-User, The Purchaser) via Family Sharing or volume purchasing.
 
@@ -40,19 +40,19 @@ The Application is not tailored to comply with industry-specific regulations (He
 
 2.8 Nothing in this license should be interpreted to restrict third-party terms. When using the Application, You must ensure that You comply with applicable third-party terms and conditions.
 
-3. TECHNICAL REQUIREMENTS
+### 3. TECHNICAL REQUIREMENTS
 
 3.1 The Licensor attempts to keep the Application updated so that it compiles with modified/new versions of the firmware and new hardware. You are not granted rights to claim such an update.
 
 3.2 The Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
 
-4. NO MAINTENANCE OR SUPPORT
+### 4. NO MAINTENANCE OR SUPPORT
 
 4.1 Alloetech LLC is not obligated, expressed, or implied, to provide any maintenance, technical, or other support for the Application.
 
 4.2 Alloetech LLC and the End-User acknowledge that Apple and Google have no obligations whatsoever to furnish any maintenance and support services with respect to the licensed Application.
 
-5. USER GENERATED CONTRIBUTIONS
+### 5. USER GENERATED CONTRIBUTIONS
 
 The Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or in the Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, “Contributions”). Contributions may be viewed by other users of the Application and through third-party websites or applications. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
@@ -73,7 +73,7 @@ The Application may invite you to chat, contribute to, or participate in blogs, 
 
 Any use of the Application in violation of the foregoing violates these Terms of Use and may result in, among other things, termination of suspensions of your rights to use the Application.
 
-6. CONTRIBUTION LICENSE
+### 6. CONTRIBUTION LICENSE
 
 By posting your Contributions to any part of the Application or making Contributions accessible to the Application by linking your account from the Application to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial advertising, or otherwise, and to prepare derivative works of, or incorporate in other works, such as Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
 
@@ -83,13 +83,13 @@ We do not assert any ownership over your Contributions. You retain full ownershi
 
 We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations in the Application; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
 
-7. LIABILITY
+### 7. LIABILITY
 
 7.1 Licensor takes no accountability or responsibility for any damages caused due to a breach of duties according to Section 2 of this Agreement. To avoid data loss, You are required to make use of backup functions of the Application to the extent allowed by applicable third-party terms and conditions of use. You are aware that in case of alterations or manipulations of the Application, You will not have access to the licensed Application.
 
 7.2 Licensor takes no accountability and responsibility in case of data loss by deleting or removing the Application from the device.
 
-8. WARRANTY
+### 8. WARRANTY
 
 8.1 Licensor warrants that the Application is free of spyware, trojan horses, viruses, or any other malware at the time of Your download. Licensor warrants that the Application works as described in the user documentation.
 
@@ -103,7 +103,7 @@ We have the right, in our sole and absolute discretion, (1) to edit, redact, or 
 
 8.6 If the user is an entrepreneur, any claim based on faults expires after a statutory period of limitation amounting to twelve (12) months after the Application was made available to the user. The statutory periods of limitation given by law apply for users who are consumers.
 
-9. PRODUCT CLAIMS
+### 9. PRODUCT CLAIMS
 
 Alloetech LLC and the End-User acknowledge that Alloetech LLC, and not Apple or Google, is responsible for addressing any claims of the End-User or any third party relating to the licensed Application or the End-User’s possessions and/or use of that licensed Application, including but not limited to:
 
@@ -113,11 +113,11 @@ Alloetech LLC and the End-User acknowledge that Alloetech LLC, and not Apple or 
 
 (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Applications’s use of the HealthKit and HomeKit.
 
-10. LEGAL COMPLIANCE
+### 10. LEGAL COMPLIANCE
 
 You represent and warrant that You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and that You are not listed on any U.S. Government list of prohibited or restricted parties.
 
-11. CONTACT INFORMATION
+### 11. CONTACT INFORMATION
 
 For general inquiries, complaints, questions, or claims concerning the licensed Application, please contact:
 
@@ -127,25 +127,25 @@ Boise, ID 83709
 United States
 hphothong@gmail.com
 
-12. TERMINATION
+### 12. TERMINATION
 
 The license is valid until terminated by Alloetech LLC or by You. Your rights under this license will terminate automatically and without notice from Alloetech LLC if You fail to adhere to any term(s) of the license. Upon License termination, You shall stop all use of the Application, and destroy all copies, full or partial, of the Application.
 
-13. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY
+### 13. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY
 
 Alloetech LLC represents and warrants that Alloetech LLC will comply with applicable third-party terms of agreement when using licensed Application.
 
 In Accordance with Section 9 of the “Instructions for Minimum Terms of Developer’s End-User License Agreement”, Apple and Apple’s subsidiaries shall be third-party beneficiaries of this End User License Agreement and - upon Your acceptance of the terms and conditions of this license agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this End-User License Agreement against You as a third-party beneficiary thereof.
 
-14. INTELLECTUAL PROPERTY RIGHTS
+### 14. INTELLECTUAL PROPERTY RIGHTS
 
 Alloetech LLC and the End-User acknowledge that, in the event of any third-party claim that the licensed Application or the End-User’s possession and use of that licensed Application infringes on the third party’s intellectual property rights, Alloetech LLC, and not Apple or Google, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
 
-15. APPLICABLE LAW
+### 15. APPLICABLE LAW
 
 This license agreement is governed by the laws of the State of Idaho excluding its conflicts of law rules.
 
-16. MISCELLANEOUS
+### 16. MISCELLANEOUS
 
 16.1 If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
 
