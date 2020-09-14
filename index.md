@@ -1,9 +1,7 @@
 ---
-title: Documentation
+title: Welcome to Alloetech LLC's documentation
 ---
 
-## Welcome to Alloetech LLC's documentation site!
-
-### Applications
+## Applications
 
 #### [Imageography](https://hphothong.github.io/documentation/imageography)
