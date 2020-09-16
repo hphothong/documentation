@@ -136,12 +136,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at [hphothong@gmail.com](mailto:hphothong@gmail.com) or by post to:
 
-```
-Alloetech LLC
-8478 W Evening Star Dr
-Boise, ID 83709
-United States
-```
+Alloetech LLC  
+8478 W Evening Star Dr  
+Boise, ID 83709  
+United States  
 
 ### 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
