@@ -136,10 +136,12 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at [hphothong@gmail.com](mailto:hphothong@gmail.com) or by post to:
 
+```
 Alloetech LLC
 8478 W Evening Star Dr
 Boise, ID 83709
 United States
+```
 
 ### 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
@@ -153,8 +155,8 @@ Based on the applicable laws of your country, you may have the right to request 
 
 By requesting a review, update, or delete of your personal information you are confirming that:
 
-(i) Under the penalty of perjury, you declare all of the information in the request to be true and accurate.
-(ii) You understand that the deletion or restriction of your personal data is irreversible and may result in the termination of Services.
-(iii) You understand that you will be required to validate your request by email, and you may be contacted in order to complete the request.
+1. Under the penalty of perjury, you declare all of the information in the request to be true and accurate.
+2. You understand that the deletion or restriction of your personal data is irreversible and may result in the termination of Services.
+3. You understand that you will be required to validate your request by email, and you may be contacted in order to complete the request.
 
 We will respond to your request within 30 days.
